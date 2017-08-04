@@ -1,3 +1,4 @@
-# First Git Project
+# Second class (Foundation of Data Science)
+## Learning Git
 
-Learning git
+Learning git with a python program.

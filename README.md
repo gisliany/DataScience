@@ -1,4 +1,20 @@
-# Second class (Foundation of Data Science)
-## Learning Git
+# Foundation of Data Science
 
-Learning git with a python program.
+## First Class
+Data science introduction. Main subjects covered:
+* History
+* Big data
+* Applications
+* Challenges
+* Tools
+* Data Science Analysis <br/>
+...
+
+## Second Class
+
+In this class I learnt about:
+* Git/Github
+* Jupyter notebooks
+* Python programming.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 2` folder.

@@ -12,9 +12,13 @@ Data science introduction. Main subjects covered:
 
 ## Second Class
 
-In this class I learnt about:
+In this class we learnt about:
 * Git/Github
 * Jupyter notebooks
 * Python programming.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 2` folder.
+
+## Third Class
+
+The use of NumPy and Pandas for scientific computing.

@@ -37,3 +37,9 @@ We learnt the basics of data visualization, a discipline that focuses on the vis
 To this end, we used the matplotlib library and we plotted line charts, bar charts and scatter charts.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 5` folder.
+
+## Sixth Class
+
+In this class we learnt how to visualize distributions using histograms and box plots.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 6` folder.

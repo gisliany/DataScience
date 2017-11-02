@@ -61,3 +61,9 @@ The exercises and their solutions are written in the notebook files contained in
 We explored the fundamentals of geographic coordinate systems and how to work with the basemap and folium libraries to plot geographic data points on maps.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 9` folder.
+
+## Eleventh Class
+
+We used the requests library heavily as we learnt about Web scraping. This library enables us to download a Web page. We also used the beautifulsoup library to extract the relevant parts of the Web page.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 11` folder.

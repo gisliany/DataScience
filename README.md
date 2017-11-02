@@ -55,3 +55,9 @@ The exercises and their solutions are written in the notebook files contained in
 We worked with the seaborn visualization library, which is built on top of matplotlib. Seaborn has good support for more complex plots, attractive default styles, and integrates well with the pandas library.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 8` folder.
+
+## Ninth Class
+
+We explored the fundamentals of geographic coordinate systems and how to work with the basemap and folium libraries to plot geographic data points on maps.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 9` folder.

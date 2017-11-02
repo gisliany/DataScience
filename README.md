@@ -43,3 +43,9 @@ The exercises and their solutions are written in the notebook files contained in
 In this class we learnt how to visualize distributions using histograms and box plots.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 6` folder.
+
+## Seventh Class
+
+In this class we focused on how to use data visualization to communicate insights and tell stories. We started with a standard matplotlib plot and improve its appearance to better communicate the patterns we want a viewer to understand. We learnt how to customize colors, line widths, layout, and annotations too.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 7` folder.

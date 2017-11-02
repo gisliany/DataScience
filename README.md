@@ -49,3 +49,9 @@ The exercises and their solutions are written in the notebook files contained in
 In this class we focused on how to use data visualization to communicate insights and tell stories. We started with a standard matplotlib plot and improve its appearance to better communicate the patterns we want a viewer to understand. We learnt how to customize colors, line widths, layout, and annotations too.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 7` folder.
+
+## Eighth Class
+
+We worked with the seaborn visualization library, which is built on top of matplotlib. Seaborn has good support for more complex plots, attractive default styles, and integrates well with the pandas library.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 8` folder.

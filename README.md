@@ -66,7 +66,7 @@ The exercises and their solutions are written in the notebook files contained in
 
 In this class, we analyzed geographic data on brazilian municipalities. Two group projects were developed using Choropleth Maps:
 
-* Choropleth maps to represent the population on brazilian municipalities of Northeast Region https://github.com/adrianabenicio/ChoroplethMap);
+* Choropleth maps to represent the population on brazilian municipalities of Northeast Region (https://github.com/adrianabenicio/ChoroplethMap);
 
 * Choropleth maps for price estimates of Uber rides (https://github.com/gisliany/uber-price-estimates)
 

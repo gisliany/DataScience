@@ -62,6 +62,15 @@ We explored the fundamentals of geographic coordinate systems and how to work wi
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 9` folder.
 
+## Tenth Class
+
+In this class, we analyzed geographic data on brazilian municipalities. Two group projects were developed using Choropleth Maps:
+
+* Choropleth maps to represent the population on brazilian municipalities of Northeast Region https://github.com/adrianabenicio/ChoroplethMap);
+
+* Choropleth maps for price estimates of Uber rides (https://github.com/gisliany/uber-price-estimates)
+
+
 ## Eleventh Class
 
 We used the requests library heavily as we learnt about Web scraping. This library enables us to download a Web page. We also used the beautifulsoup library to extract the relevant parts of the Web page.

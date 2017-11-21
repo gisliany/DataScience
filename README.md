@@ -76,3 +76,9 @@ In this class, we analyzed geographic data on brazilian municipalities. Two grou
 We used the requests library heavily as we learnt about Web scraping. This library enables us to download a Web page. We also used the beautifulsoup library to extract the relevant parts of the Web page.
 
 The exercises and their solutions are written in the notebook files contained in `Lesson 11` folder.
+
+## Twelfth Class
+
+We’ll learnt to scrape multiple web pages with Python using BeautifulSoup and requests libraries. One group project was developed with web scraping:
+
+* Gender Gap between employees of UFRN (https://github.com/adrianabenicio/WebScraping)

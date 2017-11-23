@@ -82,3 +82,9 @@ The exercises and their solutions are written in the notebook files contained in
 We’ll learnt to scrape multiple web pages with Python using BeautifulSoup and requests libraries. One group project was developed with web scraping:
 
 * Gender Gap between employees of UFRN (https://github.com/adrianabenicio/WebScraping)
+
+## Thirteenth Class
+
+In this class, we explored a specific machine learning technique called k-nearest neighbors.
+
+The exercises and their solutions are written in the notebook files contained in `Lesson 13` folder.
